@@ -56,7 +56,7 @@
     },
     "WELCOME": {
       "description": "Enable group welcome message.",
-      "value": "false"
+      "value": "true"
     },
     "AUTO_REACT": {
       "description": "Enable automatic reactions to messages.",
